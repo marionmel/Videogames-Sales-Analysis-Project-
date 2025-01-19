@@ -1,3 +1,4 @@
-# Videogames-Sales-Analysis-Project
-
-## Data Analysis of Videogames sold between 1980 to 2020, I show how different impacts to different games can bring sales whether thats the genre of game, if it was sold globally compare to other parts of the world & what type of game console or platform the game is being played on.
+# Videogames Sales Analysis Project (1980-2020)
+## Videogames growing up has always been an important aspect in my life. Even though my parents disagree, videogames can teach us lessons beyond just being entertainment or a "distraction". 
+## I wanted to pull up some statistics to figure out which videogames and videogame related subjects really impacted people economically in a golbal scale.
+### Source: https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv
